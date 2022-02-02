@@ -5,4 +5,6 @@ The C application that will be developed is an interactive fiction where the pla
 https://github.com/kwebster248/Interactive-Fiction.git  Project
 
 
-https://www.loom.com/share/28d1f52e4157490ca15bee18b43412ad Screen recording
+Screen recording https://www.loom.com/share/28d1f52e4157490ca15bee18b43412ad 
+
+Application Release 2 https://loom.com/share/d3e395863d794ca6a462a57b54b185ef
